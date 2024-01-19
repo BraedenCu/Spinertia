@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
   "homepage": "https://braedencu.github.io/spinertia",
+  "name": "spinertia",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@types/node": "^15.14.9",
