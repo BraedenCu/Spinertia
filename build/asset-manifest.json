@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spinertia/static/css/main.fdaf5dd5.css",
+    "main.js": "/spinertia/static/js/main.94bd5988.js",
+    "static/js/115.876494f4.chunk.js": "/spinertia/static/js/115.876494f4.chunk.js",
+    "static/js/281.c2e1a9fe.chunk.js": "/spinertia/static/js/281.c2e1a9fe.chunk.js",
+    "static/js/478.3e1d912a.chunk.js": "/spinertia/static/js/478.3e1d912a.chunk.js",
+    "static/js/333.ab489dc3.chunk.js": "/spinertia/static/js/333.ab489dc3.chunk.js",
+    "static/js/326.76f8df79.chunk.js": "/spinertia/static/js/326.76f8df79.chunk.js",
+    "static/js/287.44ad96b1.chunk.js": "/spinertia/static/js/287.44ad96b1.chunk.js",
+    "index.html": "/spinertia/index.html",
+    "main.fdaf5dd5.css.map": "/spinertia/static/css/main.fdaf5dd5.css.map",
+    "main.94bd5988.js.map": "/spinertia/static/js/main.94bd5988.js.map",
+    "115.876494f4.chunk.js.map": "/spinertia/static/js/115.876494f4.chunk.js.map",
+    "281.c2e1a9fe.chunk.js.map": "/spinertia/static/js/281.c2e1a9fe.chunk.js.map",
+    "478.3e1d912a.chunk.js.map": "/spinertia/static/js/478.3e1d912a.chunk.js.map",
+    "333.ab489dc3.chunk.js.map": "/spinertia/static/js/333.ab489dc3.chunk.js.map",
+    "326.76f8df79.chunk.js.map": "/spinertia/static/js/326.76f8df79.chunk.js.map",
+    "287.44ad96b1.chunk.js.map": "/spinertia/static/js/287.44ad96b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdaf5dd5.css",
+    "static/js/main.94bd5988.js"
+  ]
+}
