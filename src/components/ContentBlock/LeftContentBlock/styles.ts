@@ -33,7 +33,7 @@ export const MinTitle = styled("h6")`
   line-height: 1rem;
   padding: 0.5rem 0;
   text-transform: uppercase;
-  color: #000;
+  color: #161A30;
   font-family: "Motiva Sans Light", sans-serif;
 `;
 

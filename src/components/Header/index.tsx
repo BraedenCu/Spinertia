@@ -50,9 +50,6 @@ const Header = ({ t }: any) => {
           style={{ width: "180px" }}
           onClick={() => scrollTo("contact")}
         >
-          <Span>
-            <Button>{t("Contact")}</Button>
-          </Span>
         </CustomNavLinkSmall>
       </>
     );
